@@ -1,19 +1,20 @@
+# 🏡 Real Estate Insights – AI-Powered Property Data Extractor
 
+This project extracts structured property information from real estate brochure and floor plan PDFs using Google’s Gemini 1.5 Pro model. It reads both files and outputs a clean JSON file containing key details like property name, developer, location, area, price, and amenities.
 
-## Overview
+---
 
-This application allows users to upload property brochures and floor plans in PDF format, then uses AI to automatically extract key details such as:
+## 🚀 Features
 
-- Property specifications (name, type, bedrooms, bathrooms, area)
-- Location information (country, city, specific location)
-- Developer details
-- Pricing information
-- Payment plans and handover dates
-- 25+ amenities (displayed as Yes/No values)
+- 🧠 Uses Gemini AI to understand real estate documents
+- 📄 Accepts brochure + floor plan PDFs
+- 📦 Outputs structured JSON with property data
+- 💡 Supports detection of property features and amenities
+- 🛠 Command-line interface for flexible use
 
 ## Tech Stack
 
-- **Frontend**: Next.js, React, Tailwind CSS, shadcn/ui
+- **Frontend**: Next.js, React, Tailwind CSS
 - **Backend**: Next.js API routes, Python
 - **AI**: Google Gemini API
 
