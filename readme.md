@@ -37,40 +37,40 @@ This project extracts structured property information from real estate brochure 
    ```
 
 2. Install Node.js dependencies
-   \`\`\`bash
+   ```bash
    npm install --legacy-peer-deps
-   \`\`\`
+   ```
 
 3. Install Python dependencies
-   \`\`\`bash
+   ```bash
    pip install google-generativeai PyPDF2 python-dotenv
-   \`\`\`
+   ```
 
 4. Create a temporary directory for file uploads
-   \`\`\`bash
+   ```bash
    mkdir tmp
-   \`\`\`
+   ```
 
 5. Create an environment file
-   \`\`\`bash
+   ```bash
    # Create a .env file in the project root directory
    touch .env
    # or create it manually in your code editor
-   \`\`\`
+   ```
 
 6. Add your Google Gemini API key to the .env file
-   \`\`\`
+   ```
    # Add this line to your .env file
    GOOGLE_API_KEY=your_actual_api_key_here
-   \`\`\`
+   ```
    Replace `your_actual_api_key_here` with your Google Gemini API key. You can obtain a key from the [Google AI Studio](https://ai.google.dev/).
 
 ### Running the Application
 
 1. Start the development server
-   \`\`\`bash
+   ```bash
    npm run dev
-   \`\`\`
+   ```
 
 2. Open [http://localhost:3000](http://localhost:3000) in your browser
 
