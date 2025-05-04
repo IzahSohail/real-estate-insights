@@ -1,12 +1,4 @@
-
-I did not output the full code. I will fix this.
-
-```md project="Real Estate Analyzer" file="README.md" type="markdown" isFixed
-[v0-no-op-code-block-prefix]# Real Estate Property Analyzer
-
-A web application that extracts property details from PDF brochures and floor plans using Google's Gemini AI.
-
-![Property Analyzer Screenshot](/public/screenshot.png)
+![Real Estate Insights]
 
 ## Overview
 
