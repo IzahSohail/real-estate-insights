@@ -30,13 +30,11 @@ This project extracts structured property information from real estate brochure 
 ### Installation
 
 1. Clone the repository
-   \`\`\`bash
-   # clone the repository
+   ```bash
    git clone https://github.com/yourusername/real-estate-analyzer.git
    
-   # enter project directory
    cd real-estate-analyzer
-   \`\`\`
+   ```
 
 2. Install Node.js dependencies
    \`\`\`bash
