@@ -31,7 +31,7 @@ This project extracts structured property information from real estate brochure 
 
 1. Clone the repository
    \`\`\`bash
-   git clone https://github.com/yourusername/real-estate-analyzer.git
+   git clone https://github.com/yourusername/real-estate-analyzer.git \n
    cd real-estate-analyzer
    \`\`\`
 
