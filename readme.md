@@ -1,4 +1,4 @@
-![Real Estate Insights]
+
 
 ## Overview
 
